@@ -1,0 +1,59 @@
+2021-09-27 14:32:31 - Pcap is listening...
+2021-09-27 14:35:48 - Pcap stop listening
+2021-09-27 14:35:48 - path:D:\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-27 14:42:50 - path:D:\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-27 14:49:50 - Pcap is listening...
+2021-09-27 14:52:55 - Pcap stop listening
+2021-09-27 14:52:55 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-27 14:53:05 - Pcap is listening...
+2021-09-27 14:54:31 - Pcap stop listening
+2021-09-27 14:54:31 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-27 14:54:49 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-27 14:54:49 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-27 14:56:26 - Pcap is listening...
+2021-09-27 16:01:14 - Pcap stop listening
+2021-09-27 16:01:14 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-29 19:01:19 - Pcap is listening...
+2021-09-29 19:04:20 - Pcap stop listening
+2021-09-29 19:04:20 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-29_Flow.csv
+2021-09-29 19:07:47 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-29_Flow.csv
+2021-12-19 20:29:20 - Pcap is listening...
+2021-12-19 20:34:17 - Pcap stop listening
+2021-12-19 20:34:17 - path:F:\CICFlowMeter-4.0\bin\data\daily\2021-12-19_Flow.csv
+2021-12-19 20:40:47 - Pcap is listening...
+2021-12-19 20:41:21 - Pcap stop listening
+2021-12-19 20:41:22 - path:F:\CICFlowMeter-4.0\bin\data\daily\2021-12-19_Flow.csv
+2023-04-02 20:15:04 - Please select pcap!
+2023-04-02 20:24:48 - Pcap is listening...
+2023-04-02 20:26:08 - Pcap stop listening
+2023-04-02 20:26:08 - path:C:\Users\TribeConnect\Downloads\cicflowmeter\bin\data\daily\2023-04-02_Flow.csv
+2023-04-02 20:26:11 - Pcap is listening...
+2023-04-02 20:27:19 - Pcap stop listening
+2023-04-02 20:27:19 - path:C:\Users\TribeConnect\Downloads\cicflowmeter\bin\data\daily\2023-04-02_Flow.csv
+2023-04-02 20:27:20 - Pcap is listening...
+2023-04-02 20:27:22 - Pcap stop listening
+2023-04-02 20:27:22 - path:C:\Users\TribeConnect\Downloads\cicflowmeter\bin\data\daily\2023-04-02_Flow.csv
+2023-04-25 18:34:09 - Please select pcap!
+2023-04-25 18:34:11 - Please select pcap!
+2023-04-25 18:36:44 - Pcap is listening...
+2023-04-25 18:37:25 - Pcap stop listening
+2023-04-25 18:37:25 - path:C:\Users\dmnik\Desktop\CICFlowmeter\bin\data\daily\2023-04-25_Flow.csv
+2023-04-25 18:37:53 - path:C:\Users\dmnik\Desktop\CICFlowmeter\bin\data\daily\2023-04-25_Flow.csv
+2023-05-02 20:42:46 - You select: C:\Users\dmnik\Desktop\pcap\in
+2023-05-02 20:42:46 - Out folder: C:\Users\dmnik\Desktop\pcap\out
+2023-05-02 21:27:38 - You select: ..\..\tcpdump\pcap
+2023-05-02 21:27:38 - Out folder: ..\..\tcpdump\csv
+2023-05-02 21:34:12 - You select: C:\Users\dmnik\Desktop\g\project\src\..\tcpdump\pcap
+2023-05-02 21:34:12 - Out folder: C:\Users\dmnik\Desktop\g\project\src\..\tcpdump\csv
+2023-05-02 21:34:26 - You select: C:\Users\dmnik\Desktop\g\project\src\..\tcpdump\pcap
+2023-05-02 21:34:26 - Out folder: C:\Users\dmnik\Desktop\g\project\src\..\tcpdump\csv
+2023-05-02 21:41:21 - You select: C:\Users\dmnik\Desktop\g\project\src\..\tcpdump\pcap
+2023-05-02 21:41:21 - Out folder: C:\Users\dmnik\Desktop\g\project\src\..\tcpdump\csv
+2023-05-02 21:42:12 - You select: C:\Users\dmnik\Desktop\g\project\src\..\tcpdump\pcap
+2023-05-02 21:42:12 - Out folder: C:\Users\dmnik\Desktop\g\project\src\..\tcpdump\csv
+2023-05-02 21:43:46 - You select: C:\Users\dmnik\Desktop\g\project\src\..\tcpdump\pcap
+2023-05-02 21:43:46 - Out folder: C:\Users\dmnik\Desktop\g\project\src\..\tcpdump\csv
+2023-05-02 21:50:15 - You select: C:\Users\dmnik\Desktop\g\project\src\..\tcpdump\pcap
+2023-05-02 21:50:15 - Out folder: C:\Users\dmnik\Desktop\g\project\src\..\tcpdump\csv
+2023-05-02 21:51:05 - You select: C:\Users\dmnik\Desktop\g\project\src\..\tcpdump\pcap
+2023-05-02 21:51:05 - Out folder: C:\Users\dmnik\Desktop\g\project\src\..\tcpdump\csv
