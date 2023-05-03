@@ -1,4 +1,3 @@
-import glob as gl
 import pandas as pd
 
 import tree

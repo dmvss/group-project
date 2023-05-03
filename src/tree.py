@@ -11,6 +11,9 @@ def remove_headers(data):
     data = data.drop('Dst IP',axis=1)
     data = data.drop('Timestamp',axis=1)
     data = data.drop('Label',axis=1)
+    data = data.drop('Src Port',axis=1)
+    data = data.drop('Dst Port',axis=1)
+    data = data.drop('Protocol',axis=1)
     data =  data[data['Flow Duration'] != 0]
     return data
 
