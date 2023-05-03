@@ -23,7 +23,7 @@ def traffic_evaluation(traffic):
             nonvpn += 1
         else:
             vpn += 1
-    print(f'Packets classified as vpn: {vpn},\nPackets classified as non-vpn: {nonvpn},\nDECISION: ')
+    print(f'classified as vpn: {vpn},\nclassified as non-vpn: {nonvpn},\nDECISION: ')
     if vpn>nonvpn:
         print('Traffic sent through vpn service')
     else:
