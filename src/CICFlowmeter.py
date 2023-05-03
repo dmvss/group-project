@@ -1,8 +1,9 @@
 import os
+from utility import get_file_path
 import subprocess
 
 def make_flow(pcap_dir, csv_dir):
-    path = os.path.dirname(os.path.realpath(__file__))
+    path = get_file_path()
     exec_path = f'{path}\\..\\CICFlowmeter\\bin'
     os.chdir(exec_path)
     try:

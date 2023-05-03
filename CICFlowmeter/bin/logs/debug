@@ -3330,3 +3330,297 @@
 2023-05-02 21:51:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 450 flow
 2023-05-02 21:51:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 450 flow
 2023-05-02 21:51:06 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Desktop\g\project\src\..\tcpdump\pcap\vpn_facebook_chat1b.pcap
+2023-05-03 17:16:34 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:16:34 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:16:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:17:51 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:17:51 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:17:51 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2023-05-03 17:17:51 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2023-05-03 17:17:51 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:27:07 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:27:07 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:27:08 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 98 de  d0 1c 32 32* 86 dd 60 05    33........22..`.
+0010: b7 a2 00 35  11 ff fe 80  00 00 00 00  00 00 a9 ed    ...5............
+0020: 83 45 70 9a  cb 46 ff 02  00 00 00 00  00 00 00 00    .Ep..F..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 35  46 e0 00 00    ...........5F...
+0040: 00 00 00 01  00 00 00 00  00 00 10 5f  73 70 6f 74    ..........._spot
+0050: 69 66 79 2d  63 6f 6e 6e  65 63 74 04  5f 74 63 70    ify-connect._tcp
+0060: 05 6c 6f 63  61 6c 00 00  0c 00 01*                   .local.....     
+
+
+2023-05-03 17:27:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2023-05-03 17:27:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2023-05-03 17:27:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2023-05-03 17:27:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2023-05-03 17:27:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2023-05-03 17:27:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2023-05-03 17:27:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 20 flow
+2023-05-03 17:27:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 20 flow
+2023-05-03 17:27:08 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:29:05 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:29:05 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:29:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2023-05-03 17:29:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2023-05-03 17:29:06 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 98 de  d0 1c 32 32* 86 dd 60 05    33........22..`.
+0010: b7 a2 00 35  11 ff fe 80  00 00 00 00  00 00 a9 ed    ...5............
+0020: 83 45 70 9a  cb 46 ff 02  00 00 00 00  00 00 00 00    .Ep..F..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 35  46 e0 00 00    ...........5F...
+0040: 00 00 00 01  00 00 00 00  00 00 10 5f  73 70 6f 74    ..........._spot
+0050: 69 66 79 2d  63 6f 6e 6e  65 63 74 04  5f 74 63 70    ify-connect._tcp
+0060: 05 6c 6f 63  61 6c 00 00  0c 00 01*                   .local.....     
+
+
+2023-05-03 17:29:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 22 flow
+2023-05-03 17:29:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 22 flow
+2023-05-03 17:29:06 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:29:38 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:29:38 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:29:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2023-05-03 17:29:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2023-05-03 17:29:38 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:29:47 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:29:47 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:29:47 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:31:44 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:31:44 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:31:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2023-05-03 17:31:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2023-05-03 17:31:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2023-05-03 17:31:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:32:09 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:32:09 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:32:09 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2023-05-03 17:32:09 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:35:50 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:35:50 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:36:44 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:36:44 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:36:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2023-05-03 17:36:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2023-05-03 17:36:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2023-05-03 17:36:45 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:37:02 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:37:02 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:37:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2023-05-03 17:37:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2023-05-03 17:37:02 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 98 de  d0 1c 32 32* 86 dd 60 05    33........22..`.
+0010: b7 a2 00 35  11 ff fe 80  00 00 00 00  00 00 a9 ed    ...5............
+0020: 83 45 70 9a  cb 46 ff 02  00 00 00 00  00 00 00 00    .Ep..F..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 35  46 e0 00 00    ...........5F...
+0040: 00 00 00 01  00 00 00 00  00 00 10 5f  73 70 6f 74    ..........._spot
+0050: 69 66 79 2d  63 6f 6e 6e  65 63 74 04  5f 74 63 70    ify-connect._tcp
+0060: 05 6c 6f 63  61 6c 00 00  0c 00 01*                   .local.....     
+
+
+2023-05-03 17:37:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2023-05-03 17:37:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2023-05-03 17:37:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 27 flow
+2023-05-03 17:37:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 27 flow
+2023-05-03 17:37:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 40 flow
+2023-05-03 17:37:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 40 flow
+2023-05-03 17:37:02 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:37:20 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:37:20 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:37:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2023-05-03 17:37:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 21 flow
+2023-05-03 17:37:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 21 flow
+2023-05-03 17:37:20 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:37:38 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:37:38 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:37:38 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:37:55 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:37:55 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:37:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2023-05-03 17:37:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2023-05-03 17:37:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2023-05-03 17:37:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2023-05-03 17:37:55 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:38:13 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:38:13 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:38:13 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:38:30 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:38:30 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:38:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2023-05-03 17:38:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2023-05-03 17:38:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2023-05-03 17:38:31 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:38:48 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:38:48 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:38:48 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:39:06 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:39:06 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:39:06 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:39:23 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:39:23 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:39:23 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 11 flow
+2023-05-03 17:39:23 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:42:20 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:42:20 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:42:20 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:42:37 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:42:37 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 20 flow
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 20 flow
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 21 flow
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 21 flow
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2023-05-03 17:42:38 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:42:55 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:42:55 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:42:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2023-05-03 17:42:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2023-05-03 17:42:55 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 98 de  d0 1c 32 32* 86 dd 60 05    33........22..`.
+0010: b7 a2 00 35  11 ff fe 80  00 00 00 00  00 00 a9 ed    ...5............
+0020: 83 45 70 9a  cb 46 ff 02  00 00 00 00  00 00 00 00    .Ep..F..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 35  46 e0 00 00    ...........5F...
+0040: 00 00 00 01  00 00 00 00  00 00 10 5f  73 70 6f 74    ..........._spot
+0050: 69 66 79 2d  63 6f 6e 6e  65 63 74 04  5f 74 63 70    ify-connect._tcp
+0060: 05 6c 6f 63  61 6c 00 00  0c 00 01*                   .local.....     
+
+
+2023-05-03 17:42:55 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:43:01 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:43:01 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:43:01 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:50:03 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:50:03 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:50:03 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:50:18 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:50:18 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:50:18 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:52:53 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:52:53 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:52:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2023-05-03 17:52:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 98 de  d0 1c 32 32* 86 dd 60 05    33........22..`.
+0010: b7 a2 00 35  11 ff fe 80  00 00 00 00  00 00 a9 ed    ...5............
+0020: 83 45 70 9a  cb 46 ff 02  00 00 00 00  00 00 00 00    .Ep..F..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 35  46 e0 00 00    ...........5F...
+0040: 00 00 00 01  00 00 00 00  00 00 10 5f  73 70 6f 74    ..........._spot
+0050: 69 66 79 2d  63 6f 6e 6e  65 63 74 04  5f 74 63 70    ify-connect._tcp
+0060: 05 6c 6f 63  61 6c 00 00  0c 00 01*                   .local.....     
+
+
+2023-05-03 17:52:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2023-05-03 17:52:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:53:09 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:53:09 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:53:09 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:56:01 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:56:01 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:56:01 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:56:16 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:56:16 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:56:16 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:57:09 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:57:09 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:57:09 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2023-05-03 17:57:09 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2023-05-03 17:57:09 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2023-05-03 17:57:09 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:57:26 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:57:26 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:57:27 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:57:44 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:57:44 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:57:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2023-05-03 17:57:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2023-05-03 17:57:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 33 flow
+2023-05-03 17:57:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 33 flow
+2023-05-03 17:57:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 57 flow
+2023-05-03 17:57:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 57 flow
+2023-05-03 17:57:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 57 flow
+2023-05-03 17:57:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 56 flow
+2023-05-03 17:57:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 56 flow
+2023-05-03 17:57:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 57 flow
+2023-05-03 17:57:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 57 flow
+2023-05-03 17:57:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:58:27 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:58:27 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:58:27 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:58:45 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:58:45 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2023-05-03 17:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2023-05-03 17:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2023-05-03 17:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2023-05-03 17:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 27 flow
+2023-05-03 17:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2023-05-03 17:58:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2023-05-03 17:58:45 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:59:02 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:59:02 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:59:03 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb 98 de  d0 1c 32 32* 86 dd 60 05    33........22..`.
+0010: b7 a2 00 35  11 ff fe 80  00 00 00 00  00 00 a9 ed    ...5............
+0020: 83 45 70 9a  cb 46 ff 02  00 00 00 00  00 00 00 00    .Ep..F..........
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 35  46 e0 00 00    ...........5F...
+0040: 00 00 00 01  00 00 00 00  00 00 10 5f  73 70 6f 74    ..........._spot
+0050: 69 66 79 2d  63 6f 6e 6e  65 63 74 04  5f 74 63 70    ify-connect._tcp
+0060: 05 6c 6f 63  61 6c 00 00  0c 00 01*                   .local.....     
+
+
+2023-05-03 17:59:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 41 flow
+2023-05-03 17:59:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 41 flow
+2023-05-03 17:59:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 42 flow
+2023-05-03 17:59:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 42 flow
+2023-05-03 17:59:03 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:59:20 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:59:20 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:59:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2023-05-03 17:59:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2023-05-03 17:59:20 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap
+2023-05-03 17:59:38 INFO  cic.cs.unb.ca.ifm.Cmd    You select: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap
+2023-05-03 17:59:38 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\csv
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 20 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 20 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 21 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 22 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 22 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 22 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 22 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 22 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 22 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 27 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2023-05-03 17:59:38 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\dmnik\Documents\GitHub\group-project\src\..\tcpdump\pcap\sniffed.pcap

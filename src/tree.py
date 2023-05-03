@@ -1,30 +1,37 @@
 import pickle
-import os
+from utility import get_file_path
 
-path = os.path.dirname(os.path.realpath(__file__))
+def load_model(filepath):
+    with open(filepath,'rb') as f:
+        return pickle.load(f)
 
-with open(f'{path}\\..\\decision_tree.pkl','rb') as f:
-    traffic_classifier = pickle.load(f)
+def remove_headers(data):
+    data = data.drop('Flow ID',axis=1)
+    data = data.drop('Src IP',axis=1)
+    data = data.drop('Dst IP',axis=1)
+    data = data.drop('Timestamp',axis=1)
+    data = data.drop('Label',axis=1)
+    return data
 
-def data_treatment(raw_data):
-    raw_data = raw_data.drop('Flow ID',axis=1)
-    raw_data = raw_data.drop('Src IP',axis=1)
-    raw_data = raw_data.drop('Dst IP',axis=1)
-    raw_data = raw_data.drop('Timestamp',axis=1)
-    raw_data = raw_data.drop('Label',axis=1)
-    return raw_data
-
-def traffic_evaluation(traffic):
+def classify(model, traffic):
     vpn = 0
     nonvpn =  0
-    output = traffic_classifier.predict(traffic)
+    output = model.predict(traffic)
+    total = len(output)
+
     for decision in output:
         if decision == 0:
             nonvpn += 1
         else:
             vpn += 1
-    print(f'classified as vpn: {vpn},\nclassified as non-vpn: {nonvpn},\nDECISION: ')
-    if vpn>nonvpn:
-        print('Traffic sent through vpn service')
+    
+    print_percentage_info = lambda label : print(f'{round(label/total * 100, 2)} % |', end='')
+
+    if vpn > nonvpn:
+        print("VPN ", end="")
+        print_percentage_info(vpn)
     else:
-        print('Traffic sent without vpn service')
+        print("NON-VPN ", end="")
+        print_percentage_info(nonvpn)
+
+    print(f' TOTAL FLOWS: {total}, VPN: {vpn}, NON-VPN: {nonvpn}')

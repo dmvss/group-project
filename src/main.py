@@ -1,18 +1,35 @@
-import pickle
-import os
 import glob as gl
 import pandas as pd
-from scapy.all import *
-from subprocess import check_output
-from traffic_sniffer import traffic_sniffer
-from make_flow_test import main
-from tree import data_treatment
-from tree import traffic_evaluation
 
-path = os.path.dirname(os.path.realpath(__file__))
+import tree
+from CICFlowmeter import make_flow
+from sniff import traffic_sniffer
+from utility import *
 
-traffic_sniffer()
-main()
-csv_folder_path = gl.glob(f"{path}\\..\\tcpdump\\csv\\*.csv")[0]
-source = pd.read_csv(csv_folder_path)
-traffic_evaluation(data_treatment(source))
+def main():
+    path = get_file_path()
+
+    SNIFF_DURATION = 15
+    pcap_dir = f'{path}\\..\\tcpdump\\pcap'
+    csv_dir = f'{path}\\..\\tcpdump\\csv'
+    model = tree.load_model(f'{path}\\..\\model\\decision_tree.pkl')
+    sniffed_csv = f'{csv_dir}\\sniffed.pcap_Flow.csv'
+
+    episodes = 10
+
+    for _ in range(episodes):
+        remove_obsolete_files()
+
+        traffic_sniffer(SNIFF_DURATION)
+        done, out = make_flow(pcap_dir, csv_dir)
+
+        if not done:
+            print("Error parsing pcap files.")
+            return
+        
+        input = pd.read_csv(sniffed_csv)
+        input = tree.remove_headers(input)
+        tree.classify(model, input)
+
+if __name__ == '__main__':
+    main()
