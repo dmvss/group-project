@@ -39,7 +39,7 @@ def main():
     for ep in range(EPISODES):
         utility.remove_obsolete_files()
 
-        sniff.capture_start(SNIFF_DURATION)
+        sniff.if_capture(SNIFF_DURATION)
         done, logs = CICFlowmeter.make_flow(pcap_dir, csv_dir)
 
         if not done:
