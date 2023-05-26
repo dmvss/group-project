@@ -2,7 +2,7 @@ from scapy.all import *
 from utility import get_file_path
 from subprocess import check_output
 
-def traffic_sniffer(timeout):
+def capture_start(timeout):
     interface = check_output((
     "powershell -NoLogo -NoProfile -NonInteractive -ExecutionPolicy bypass -Command ""& {"
     "Get-NetRoute –DestinationPrefix '0.0.0.0/0' | Select-Object -First 1 | "
