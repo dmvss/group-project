@@ -1,0 +1,65 @@
+episode: 1, label: NON VPN, confidence: 0.75
+
+1.0, 0.0, NON VPN
+0.0, 1.0, VPN
+1.0, 0.0, NON VPN
+1.0, 0.0, NON VPN
+
+episode: 2, label: 50/50, confidence: 1
+
+0.01, 0.99, VPN
+0.0, 1.0, VPN
+1.0, 0.0, NON VPN
+0.0, 1.0, VPN
+1.0, 0.0, NON VPN
+0.98, 0.02, NON VPN
+
+episode: 3, label: 50/50, confidence: 1
+
+1.0, 0.0, NON VPN
+0.01, 0.99, VPN
+1.0, 0.0, NON VPN
+0.0, 1.0, VPN
+0.95, 0.05, NON VPN
+0.0, 1.0, VPN
+
+episode: 4, label: NON VPN, confidence: 1.0
+
+1.0, 0.0, NON VPN
+0.94, 0.06, NON VPN
+1.0, 0.0, NON VPN
+
+episode: 5, label: NON VPN, confidence: 1.0
+
+1.0, 0.0, NON VPN
+1.0, 0.0, NON VPN
+
+episode: 6, label: NON VPN, confidence: 1.0
+
+1.0, 0.0, NON VPN
+1.0, 0.0, NON VPN
+
+episode: 7, label: NON VPN, confidence: 1.0
+
+1.0, 0.0, NON VPN
+1.0, 0.0, NON VPN
+
+episode: 8, label: NON VPN, confidence: 1.0
+
+1.0, 0.0, NON VPN
+1.0, 0.0, NON VPN
+1.0, 0.0, NON VPN
+
+episode: 9, label: NON VPN, confidence: 0.8
+
+1.0, 0.0, NON VPN
+0.87, 0.13, NON VPN
+0.99, 0.01, NON VPN
+0.94, 0.06, NON VPN
+0.0, 1.0, VPN
+
+episode: 10, label: NON VPN, confidence: 1.0
+
+1.0, 0.0, NON VPN
+1.0, 0.0, NON VPN
+
